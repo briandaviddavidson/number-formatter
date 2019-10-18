@@ -1,0 +1,27 @@
+{
+  "name": "number-formatter",
+  "version": "0.1.0",
+  "description": "A basic number formatter from the codeburst.io tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test-spec": "mocha --reporter spec",
+    "test-nyan": "mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briandaviddavidson/number-formatter.git"
+  },
+  "author": "Brian Davidson <briandaviddavidson@gmail.com> (www.briandavidson.dev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/briandaviddavidson/number-formatter/issues"
+  },
+  "engines": {
+    "node": ">=8.15.1"
+  },
+  "homepage": "https://github.com/briandaviddavidson/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.1"
+  }
+}
