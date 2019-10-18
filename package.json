@@ -1,5 +1,5 @@
 {
-  "name": "number-formatter",
+  "name": "@bddavidson/number-formatter",
   "version": "0.1.0",
   "description": "A basic number formatter from the codeburst.io tutorial",
   "main": "index.js",
